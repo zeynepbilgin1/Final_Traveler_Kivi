@@ -23,17 +23,17 @@ Guides will be able to make any updates except changing the whole route on their
 ## Screenshots
 These are some screenshots of the application.
 <p>
-  <img src="screenshots/welcome.jpeg" width="230">
-  <img src="screenshots/login.jpeg" width="230">
-  <img src="screenshots/register.jpeg" width="230">
-  <img src="screenshots/social.jpeg" width="230">
+  <img src="screenshots/welcome.jpeg" width="210">
+  <img src="screenshots/login.jpeg" width="210">
+  <img src="screenshots/register.jpeg" width="210">
+  <img src="screenshots/social.jpeg" width="210">
 </p>
 
 <p>
-  <img src="screenshots/newpost.jpeg" width="230">
-  <img src="screenshots/searchtour.jpeg" width="230">
-  <img src="screenshots/guide.jpeg" width="230">
-  <img src="screenshots/map.jpeg" width="230">
+  <img src="screenshots/newpost.jpeg" width="210">
+  <img src="screenshots/searchtour.jpeg" width="210">
+  <img src="screenshots/guide.jpeg" width="210">
+  <img src="screenshots/map.jpeg" width="210">
 </p>
 
 ## Installation instructions
