@@ -46,6 +46,6 @@ These are some screenshots of the application.
 ## Contributors
 Feyza Zeynep Bilgin  
 Çağla Güneş Ocaklı  
-Eftelye Çoban  
+Eftelya Çoban  
 Kerem Çınar  
 Yusuf Said Aktan  
