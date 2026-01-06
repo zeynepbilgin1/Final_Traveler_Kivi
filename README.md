@@ -14,11 +14,11 @@ Our application will provide a page where users can share their experiences from
 
 ## 2 Guide Features
 ## 2.1 Guide Profile
- 	Each guide has their own profile, which includes their name, experience, and a list of upcoming and past routes they have prepared. Travelers can submit reviews and ratings based on their tour experiences, allowing them to evaluate the guide’s performance. This feedback is available on the guide’s profile which is seen by normal users. Additionally, guides can announce upcoming events and inform travelers about new updates. 
+Each guide has their own profile, which includes their name, experience, and a list of upcoming and past routes they have prepared. Travelers can submit reviews and ratings based on their tour experiences, allowing them to evaluate the guide’s performance. This feedback is available on the guide’s profile which is seen by normal users. Additionally, guides can announce upcoming events and inform travelers about new updates. 
 ## 2.2 Creating a New Tour
 While creating a new tour guide is going to specify the route, locations they will go, the quota of how many travelers will be accepted, the date of the tour, average time of the tour duration, and if there is any transportation will be used they also will give this information as well. Additionally, guides will be able to give some additional information which the guide thinks important, for example the information about weather might be important and the guide can inform the travelers about this and give an advice about which clothes should be chosen by writing them on the note page in the tour page.
 ## 2.3 Features on the existing tours
-	Guides will be able to make any updates except changing the whole route on their existing tours. They may delay and cancel it or just add new information to the note page. Also when a normal user selects a tour, the guide of this tour will see this information and the guide can confirm this request or if he/she doesn’t want this user in his/her tour will be able to object to this request.
+Guides will be able to make any updates except changing the whole route on their existing tours. They may delay and cancel it or just add new information to the note page. Also when a normal user selects a tour, the guide of this tour will see this information and the guide can confirm this request or if he/she doesn’t want this user in his/her tour will be able to object to this request.
   
 ## Screenshots
   These are some screenshots of the application.
@@ -31,8 +31,8 @@ While creating a new tour guide is going to specify the route, locations they wi
 5. Run the Android application
 
 ## Contributors
-Feyza Zeynep Bilgin
-Çağla Güneş Ocaklı
-Eftelye Çoban
-Kerem Çınar
-Yusuf Said Aktan
+Feyza Zeynep Bilgin  
+Çağla Güneş Ocaklı  
+Eftelye Çoban  
+Kerem Çınar  
+Yusuf Said Aktan  
