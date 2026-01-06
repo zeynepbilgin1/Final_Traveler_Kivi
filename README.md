@@ -21,7 +21,15 @@ While creating a new tour guide is going to specify the route, locations they wi
 Guides will be able to make any updates except changing the whole route on their existing tours. They may delay and cancel it or just add new information to the note page. Also when a normal user selects a tour, the guide of this tour will see this information and the guide can confirm this request or if he/she doesn’t want this user in his/her tour will be able to object to this request.
   
 ## Screenshots
-  These are some screenshots of the application.
+These are some screenshots of the application.
+![Welcome Screen](screenshots/welcome.jpeg)
+![Login Screen](screenshots/login.jpeg)
+![Register Screen](screenshots/register.jpeg)
+![Social Media Screen](screenshots/social.jpeg)
+![Create New Post Screen](screenshots/newpost.jpeg)
+![Search a Tour Screen](screenshots/searchtour.jpeg)
+![Guide Profile Screen](screenshots/guide.jpeg)
+![Tour Map Screen](screenshots/map.jpeg)
 
 ## Installation instructions
 1. Clone the repo
