@@ -44,8 +44,8 @@ These are some screenshots of the application.
 5. Run the Android application
 
 ## Contributors
-Feyza Zeynep Bilgin  
-Çağla Güneş Ocaklı  
-Eftelya Çoban  
-Kerem Çınar  
-Yusuf Said Aktan  
+Feyza Zeynep Bilgin - Front-end  
+Çağla Güneş Ocaklı - Front-end  
+Eftelya Çoban - Front-end  
+Kerem Çınar - Back-end  
+Yusuf Said Aktan - Back-end  
